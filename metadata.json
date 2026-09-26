@@ -1,0 +1,21 @@
+{
+    "name": "CensorAbuse",
+    "author": "Lobnie",
+    "description": "Снимает ограничения с треков полностью: плеер играет их как неудалённые. Подмена только звука и ответов API, интерфейс честный",
+    "version": "1.9.19",
+    "image": "image.png",
+    "banner": "banner.png",
+    "script": "script.js",
+    "type": "script",
+    "tags": [
+        "Script"
+    ],
+    "allowedUrls": [
+        "https://github.com/",
+        "https://raw.githubusercontent.com",
+        "https://pzomqvgckpgkshxhpite.supabase.co/"
+    ],
+    "installSource": "local",
+    "id": "c2438c2f-cedb-451e-9f42-478ef49da2e5",
+    "storeAddonId": "78d083c5-0510-4c41-b3de-41aab30a9fc5"
+}
